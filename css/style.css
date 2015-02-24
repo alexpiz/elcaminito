@@ -1,0 +1,103 @@
+* {
+	margin: 0;
+}
+
+/* *************** Navigation ************  */
+
+header {
+	margin: -5px;
+}
+
+.logo {
+	background: url(../logo.svg) no-repeat;
+	height: 85px;
+	margin-left: 150px;
+	text-indent: -9999px;
+	width: 85px;
+}
+
+nav {
+	background-color: #e1e1e1;	
+	display: inline-block;
+	height: 45px;
+	margin: 0;
+	list-style: none;
+	width:100%;
+}
+
+.navigation {
+	display: inline-block;
+	margin: 0;
+	list-style: none;
+}
+
+nav ul li {
+	display: inline-block;
+	margin-left: 30px;
+	position: relative;
+	text-transform: uppercase;
+	top: -15px;
+}
+
+.navigation li a {
+	display: block;
+    color:#000;
+    text-decoration: none;
+}
+
+/* *************** End Navigation **************** */
+
+/**************** hero image content ******* */
+
+.hero-image {
+	background: url(../banner.jpg) no-repeat;
+	background-size:cover;
+		-webkit-background-size: cover;
+	color: #fff;
+	height: 500px;
+	line-height:35px;
+	margin: auto;
+	width: 100%;
+}
+
+.hero-image h2 {
+	font-size: 2.5rem;
+	padding-top: 300px;
+	margin-left: 150px;
+}
+
+.hero-image h4 {
+	font-size: 1.2rem;
+	margin-left: 150px;
+}
+
+/* ******************hero image content end ************** */
+
+/* ****************** More content second section ************** */
+
+.content {
+	background-color: #cccccc;s
+	width: 100%;
+}
+
+.content-more {
+	height: 300px;
+	margin-left: 140px;
+	max-width: 1000px;
+	width: 620px;
+}
+
+.content-more h3 {
+	font-size: 2rem;
+}
+
+
+
+/* ****************** More content second section end ************** */
+
+
+
+
+
+
+

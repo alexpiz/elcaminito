@@ -91,6 +91,15 @@ nav ul li {
 	font-size: 2rem;
 }
 
+.content-more a {
+	background-color: #0080ff;
+	border: solid 3px #0080ff;
+	text-decoration: none;
+	color: #fff;
+	padding: 4px;
+	margin-left: 600px;
+}
+
 
 
 /* ****************** More content second section end ************** */
